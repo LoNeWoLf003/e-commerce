@@ -42,4 +42,3 @@ query Settings {
   ${SETTINGS}
 }
 `
-
